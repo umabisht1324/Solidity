@@ -23,4 +23,6 @@ contract Test
 //----------------------Pure------------------------------
 // The pure functions do not read or modify the state variables,
 //  which returns the values only using the parameters passed to 
-// the  function or local variables present in it. 
+// the  function or local variables present in it. They do some simple math
+
+// They both are no state change function 
